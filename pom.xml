@@ -17,6 +17,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<kotlin.version>1.3.21</kotlin.version>
+		<docker-file-maven-version>1.4.3</docker-file-maven-version>
 	</properties>
 
 	<dependencies>
